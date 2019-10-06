@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -21,12 +21,15 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+    - kinjalik.github.io
+    - Competitive-Programming-Tasks
+    - Conspectus
+    - Contest-Write-Ups
 
 social_media:
   # behance: your_username
