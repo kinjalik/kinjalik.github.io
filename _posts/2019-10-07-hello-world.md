@@ -5,9 +5,11 @@ published: true
 
 **Hello world**, this is my first Jekyll blog post.
 
+I'll try to post really interesting things and notes.
+
 I hope you like it!
 
-# Highlighter
+# Highlighter examples
 ## Ruby
 ```ruby
 def show
